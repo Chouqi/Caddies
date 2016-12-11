@@ -66,9 +66,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\scrits\CameraController.cs" />
-    <Compile Include="Assets\scrits\PlayerController.cs" />
-    <Compile Include="Assets\scrits\moveplayer.cs" />
+    <Compile Include="Assets\scripts\CameraController.cs" />
+    <Compile Include="Assets\scripts\PlayerController.cs" />
+    <Compile Include="Assets\scripts\orientationcaddie.cs" />
     <Compile Include="Assets\tuto pour rebond trigger etc\ApplyForceOnTriggerEnter.cs" />
     <Compile Include="Assets\tuto pour rebond trigger etc\UnCheckIsKinematicOnTriggerEnter.cs" />
   </ItemGroup>
